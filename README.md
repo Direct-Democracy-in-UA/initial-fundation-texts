@@ -16,6 +16,6 @@
 
 
 ####1. [Тексти про роботу з текстами] (https://github.com/Direct-Democracy-in-UA/initial-fundation-texts/tree/master/FAQ-work-with-texts)
-#####..1. (потребує перекладу) [Як форматувати тексти] (https://github.com/Direct-Democracy-in-UA/initial-fundation-texts/tree/master/FAQ-work-with-texts/how-to-format-texts)
-#####..2. [Як змінювати тексти] (https://github.com/Direct-Democracy-in-UA/initial-fundation-texts/tree/master/FAQ-work-with-texts/how-to-change-texts)
+#####⋅⋅1. (потребує перекладу) [Як форматувати тексти] (https://github.com/Direct-Democracy-in-UA/initial-fundation-texts/tree/master/FAQ-work-with-texts/how-to-format-texts)
+#####⋅⋅2. [Як змінювати тексти] (https://github.com/Direct-Democracy-in-UA/initial-fundation-texts/tree/master/FAQ-work-with-texts/how-to-change-texts)
 
